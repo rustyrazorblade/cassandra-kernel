@@ -1,5 +1,5 @@
 {
- "argv": ["python", "-m", "cassandra_jupyter_kernel.cassandra",
+ "argv": ["python", "-m", "cassandra_jupyter_kernel.kernel",
           "-f", "{connection_file}"],
  "display_name": "Cassandra",
  "language": "cql"
